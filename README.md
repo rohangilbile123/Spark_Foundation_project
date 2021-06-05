@@ -1,1 +1,4 @@
-# Spark_Foundation_project
+# Intern at The Spark Foundation
+
+
+Implement a real time face mask detector
